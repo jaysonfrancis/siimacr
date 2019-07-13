@@ -23,7 +23,8 @@ Examples of segmentation
     - Learns a mapping from pixels to pixles, without extracting region proposals.
     - In contrast with CNNs which use FC layers, FCNs only have convolutional and pooling layers, making them adaptable to arbitrary sized inputs.
     - Con: Direct predicions are typically low in resolution, resulting in fuzzy boundaries.
-![fcn](https://i.imgur.com/RtYkQft.png = 100x30)
+    
+![fcn](https://i.imgur.com/RtYkQft.png)
 
 **Weakly Supervised Semantic Segmentation**
     - Utilizes annotated bounding boxes for supervision
@@ -33,5 +34,5 @@ Examples of segmentation
 - [https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef](https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef)
 - [https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTA2Nl19
+eyJoaXN0b3J5IjpbNDg1MTgwOTAzXX0=
 -->
