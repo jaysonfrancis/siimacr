@@ -17,7 +17,7 @@ Some standard deep networks that have made significant contributions. Often used
 
 **Region-Based Semantic Segmentation**
  - R-CNN
- 
+ ![rcnn](https://miro.medium.com/max/1000/1*ccdPdFdcSqkxRg-7902Uuw.jpeg
 **Fully Convolutional Network-Based Semantic Segmentation**
     - Learns a mapping from pixels to pixles, without extracting region proposals.
     - In contrast with CNNs which use FC layers, FCNs only have convolutional and pooling layers, making them adaptable to arbitrary sized inputs.
@@ -31,5 +31,5 @@ Some standard deep networks that have made significant contributions. Often used
 - https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef
 - http://www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODg3MjYwNV19
+eyJoaXN0b3J5IjpbLTE3MDIxNDQ5MzVdfQ==
 -->
