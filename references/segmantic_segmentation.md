@@ -9,7 +9,8 @@ Examples of segmentation
 
 ![semantic2](https://i.imgur.com/B7u8Rwz.png)
 
-Some standard deep networks that have made significant contributions. Often used as the basis of semantic segmentation systems.
+**Some standard deep networks that have made significant contributions. Often used as the basis of semantic segmentation systems.**
+
 - [AlexNet (Toronto](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - [VGG-16 (Oxford](https://arxiv.org/pdf/1409.1556.pdf)
 - [GoogleNet (Google)](https://www.cv foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pd)
@@ -17,7 +18,7 @@ Some standard deep networks that have made significant contributions. Often used
 
 **Region-Based Semantic Segmentation**
  - R-CNN
- ![rcnn](https://miro.medium.com/max/1000/1*ccdPdFdcSqkxRg-7902Uuw.jpeg
+
 **Fully Convolutional Network-Based Semantic Segmentation**
     - Learns a mapping from pixels to pixles, without extracting region proposals.
     - In contrast with CNNs which use FC layers, FCNs only have convolutional and pooling layers, making them adaptable to arbitrary sized inputs.
@@ -26,10 +27,9 @@ Some standard deep networks that have made significant contributions. Often used
 **Weakly Supervised Semantic Segmentation**
     - Utilizes annotated bounding boxes for supervision
 
-
 #### Resources
 - https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef
 - http://www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDIxNDQ5MzVdfQ==
+eyJoaXN0b3J5IjpbLTE3MTk0MDMxNDFdfQ==
 -->
