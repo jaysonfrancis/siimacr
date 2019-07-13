@@ -15,7 +15,7 @@
 
 - [AlexNet (Toronto)](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - [VGG-16 (Oxford)](https://arxiv.org/pdf/1409.1556.pdf)
-- [GoogleNet (Google)](https://www.cvfoundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pd)
+- [GoogleNet (Google)](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
 - [ResNet (Microsoft)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Region-Based Semantic Segmentation**
@@ -43,6 +43,6 @@
 - [https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef](https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef)
 - [https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzQzMTU5MywtODY3NjgyNzUzLC0xMj
-U5OTMxMjQ4XX0=
+eyJoaXN0b3J5IjpbLTE1NDk3Nzk1MTgsMjAxMzQzMTU5MywtOD
+Y3NjgyNzUzLC0xMjU5OTMxMjQ4XX0=
 -->
