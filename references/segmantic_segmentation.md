@@ -19,7 +19,7 @@
 - [ResNet (Microsoft)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Region-Based Semantic Segmentation**
- - Using pixel values to segment different objects by usingR-CNN
+ - Using pixel values to segment different objects by using a threshold value. (Threshold segmentation) R-CNN
 
 **Fully Convolutional Network-Based Semantic Segmentation**
     - Learns a mapping from pixels to pixles, without extracting region proposals.
@@ -36,5 +36,5 @@
 - [https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef](https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef)
 - [https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1MTgxNTE1XX0=
+eyJoaXN0b3J5IjpbLTEyNTk5MzEyNDhdfQ==
 -->
