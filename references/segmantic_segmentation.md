@@ -28,8 +28,9 @@ Examples of segmentation
     - Utilizes annotated bounding boxes for supervision
 
 #### Resources
-- https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef
-- http://www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdf
+- [http://www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdf](http://www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdf)
+- [https://www.analyticsvidhya.cohttp://www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdfm/blog/2019/04/introduction-image-segmentation-techniques-python/](https://www.analyticsvidhya.cohttp//www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdfm/blog/2019/04/introduction-image-segmentation-techniques-python/)
+- [https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTk0MDMxNDFdfQ==
+eyJoaXN0b3J5IjpbLTE3NTM0ODE2MTBdfQ==
 -->
