@@ -1,10 +1,10 @@
 ### Semantic Segmentation
 
-**Semantic Segmentation**
-    - Classifying labels for each pixel, so each pixel is labeled with a class.
-    - Grouping together pixels that have similar attributes.
+
+- Classifying labels for each pixel, so each pixel is labeled with a class.
+- Grouping together pixels that have similar attributes.
    
-Examples of segmentation
+**Examples of segmentation**
 ![](https://i.imgur.com/43VZ1wr.png)
 
 ![semantic](https://miro.medium.com/max/2000/1*MQCvfEbbA44fiZk5GoDvhA.png)
@@ -19,7 +19,7 @@ Examples of segmentation
 - [ResNet (Microsoft)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Region-Based Semantic Segmentation**
- - R-CNN
+ - Using pixel values to segment different objects by usingR-CNN
 
 **Fully Convolutional Network-Based Semantic Segmentation**
     - Learns a mapping from pixels to pixles, without extracting region proposals.
@@ -36,5 +36,5 @@ Examples of segmentation
 - [https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef](https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef)
 - [https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTAxNTEzMV19
+eyJoaXN0b3J5IjpbODQ1MTgxNTE1XX0=
 -->
