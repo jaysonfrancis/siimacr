@@ -34,6 +34,7 @@
 **Segmentation based on Clustering**
 
 **Mask R-CNN**
+	- Class, bounding box, and object mask
 
 
 #### Resources
@@ -41,5 +42,6 @@
 - [https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef](https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef)
 - [https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzkyODYwNCwtMTI1OTkzMTI0OF19
+eyJoaXN0b3J5IjpbLTE3MTY1NDk3NzQsLTEyNTk5MzEyNDhdfQ
+==
 -->
