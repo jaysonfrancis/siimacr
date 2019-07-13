@@ -1,11 +1,11 @@
 ### Semantic Segmentation
 
-Semantic Segmentation
+**Semantic Segmentation**
     - Classifying labels for each pixel, so each pixel is labeled with a class.
     - Grouping together pixels that have similar attributes.
-    -
+   
 
-Examples of semantic s
+Examples of segmentation
 ![semantic](https://miro.medium.com/max/2000/1*MQCvfEbbA44fiZk5GoDvhA.png)
 
 ![semantic2](https://i.imgur.com/B7u8Rwz.png)
@@ -32,5 +32,5 @@ Some standard deep networks that have made significant contributions. Often used
 - https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef
 - http://www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTczNzI5MF19
+eyJoaXN0b3J5IjpbOTkxMDY4Njc4XX0=
 -->
