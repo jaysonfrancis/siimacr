@@ -10,10 +10,10 @@ Examples of segmentation
 ![semantic2](https://i.imgur.com/B7u8Rwz.png)
 
 Some standard deep networks that have made significant contributions. Often used as the basis of semantic segmentation systems.
-- AlexNet (Toronto) (
-- VGG-16 (Oxford)
-- GoogleNet (Google)
-- ResNet (Microsoft)
+- [AlexNet (Toronto](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+- [VGG-16 (Oxford](https://arxiv.org/pdf/1409.1556.pdf)
+- [GoogleNet (Google)](https://www.cv foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pd)
+- [ResNet (Microsoft)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Region-Based Semantic Segmentation**
  - R-CNN
@@ -31,5 +31,5 @@ Some standard deep networks that have made significant contributions. Often used
 - https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef
 - http://www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDYyNTY2OF19
+eyJoaXN0b3J5IjpbMTU4ODg3MjYwNV19
 -->
