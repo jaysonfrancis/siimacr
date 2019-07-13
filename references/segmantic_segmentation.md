@@ -5,6 +5,8 @@
     - Grouping together pixels that have similar attributes.
    
 Examples of segmentation
+![](https://i.imgur.com/43VZ1wr.png)
+
 ![semantic](https://miro.medium.com/max/2000/1*MQCvfEbbA44fiZk5GoDvhA.png)
 
 ![semantic2](https://i.imgur.com/B7u8Rwz.png)
@@ -34,5 +36,5 @@ Examples of segmentation
 - [https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef](https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef)
 - [https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1MTgwOTAzXX0=
+eyJoaXN0b3J5IjpbLTY0NTAxNTEzMV19
 -->
