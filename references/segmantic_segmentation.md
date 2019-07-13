@@ -31,10 +31,15 @@
 **Weakly Supervised Semantic Segmentation**
     - Utilizes annotated bounding boxes for supervision
 
+**Segmentation based on Clustering**
+
+**Mask R-CNN**
+
+
 #### Resources
 - [http://www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdf](http://www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdf)
 - [https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef](https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef)
 - [https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/](https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTk5MzEyNDhdfQ==
+eyJoaXN0b3J5IjpbLTgxMzkyODYwNCwtMTI1OTkzMTI0OF19
 -->
